@@ -1,0 +1,69 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 100uF_6.3V
+D X7R 2220
+K cap capacitor
+F http://datasheets.avx.com/cx5r.pdf
+$ENDCMP
+#
+$CMP 1K
+D Resistor, US symbol
+K R res resistor
+F ~
+$ENDCMP
+#
+$CMP 2.2uF_50V
+D X7R 2220
+K cap capacitor
+F https://product.tdk.com/info/en/catalog/datasheets/mlcc_commercial_midvoltage_en.pdf
+$ENDCMP
+#
+$CMP 2K
+D Resistor, US symbol
+K R res resistor
+F ~
+$ENDCMP
+#
+$CMP 2uF_450V
+D Metallized Polypropylene Film Capacitor
+K cap capacitor
+F https://www.mouser.com/datasheet/2/400/MKP_B3267_P-1526490.pdf
+$ENDCMP
+#
+$CMP 33uH_2.5A_84mOhm
+D Inductor
+K inductor choke coil reactor magnetic
+F http://products.sumida.com/products/pdf/CDRH105R.pdf
+$ENDCMP
+#
+$CMP 4.7uF_100V
+D X7R 2220
+K cap capacitor
+F https://product.tdk.com/info/en/catalog/datasheets/mlcc_commercial_midvoltage_en.pdf
+$ENDCMP
+#
+$CMP D_1A_30V_310mV
+D Schottky diode
+K diode Schottky
+F https://www.diodes.com/assets/Datasheets/ds30492.pdf
+$ENDCMP
+#
+$CMP R_0603
+D Resistor, US symbol
+K R res resistor
+F ~
+$ENDCMP
+#
+$CMP SMBJ5.0A
+D TVS DIODE 3.3V 14.1V SOD523
+K ESD5Z3.3T1GOSCT-ND
+F https://www.littelfuse.com/~/media/electronics/datasheets/tvs_diodes/littelfuse_tvs_diode_smbj_datasheet.pdf.pdf
+$ENDCMP
+#
+$CMP fuse
+D FUSE BOARD MOUNT 10A 32VAC 63VDC
+K 486-1686-1-ND UST 1206
+F https://us.schurter.com/pdf/english/typ_UST_1206.pdf
+$ENDCMP
+#
+#End Doc Library
